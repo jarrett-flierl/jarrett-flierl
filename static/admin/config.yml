@@ -8,7 +8,7 @@ public_folder: "uploads"
 collections:
   - name: "youngmangame"
     label: "Young Man Game"
-    folder: "content/youngmangame"
+    folder: "content/post"
     create: true
     slug: "{{year}}-{{slug}}"
     fields:
@@ -26,7 +26,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "life"
     label: "Life Post"
-    folder: "content/life"
+    folder: "content/post"
     create: true
     slug: "/{{year}}-{{slug}}/index.md"
     fields:
@@ -44,7 +44,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "coding"
     label: "Coding"
-    folder: "content/coding"
+    folder: "content/post"
     create: true
     slug: "{{year}}-{{slug}}"
     fields:
@@ -62,7 +62,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "coding-python101"
     label: "Python 101"
-    folder: "content/coding/Python101"
+    folder: "content/post"
     create: true
     slug: "{{year}}-{{slug}}"
     fields:
@@ -80,7 +80,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "coding-buildawebsitefor12dollars"
     label: "12 Dolla Website"
-    folder: "content/coding/BuildAWebsiteFor12Dollars"
+    folder: "content/post"
     create: true
     slug: "{{year}}-{{slug}}"
     fields:
@@ -98,7 +98,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "article"
     label: "Article"
-    folder: "content/article"
+    folder: "content/post"
     create: true
     slug: "{{year}}-{{slug}}"
     fields:
@@ -116,7 +116,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "design"
     label: "Design"
-    folder: "content/design"
+    folder: "content/post"
     create: true
     slug: "{{year}}-{{slug}}"
     fields:
