@@ -7,7 +7,7 @@ paginate        = 6
 
 [params]
   title       = "Jarrett Flierl"
-  subtitle    = "the ginger"
+  subtitle    = "creator"
 
   cover       = "uploads/jarrett-flierl-header.jpg"
   description = "Jarett Flierl's Tester Teaser"
