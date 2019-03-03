@@ -1,4 +1,4 @@
-baseurl         = ""
+baseurl         = "https://flamboyant-noyce-de8aa1.netlify.com/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
