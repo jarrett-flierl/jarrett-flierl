@@ -17,8 +17,8 @@ collections:
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Categories", name: "categories", widget: "hidden", default: "Podcast"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
-      - {label: Author, name: author, widget: hidden, default: Chris Stayte}
-      - {label: Author Image, name: authorImage, widget: hidden, default: "uploads/chrisstayte_profilepic.jpg"}
+      - {label: Author, name: author, widget: hidden, default: Jarrett Flierl}
+      - {label: Author Image, name: authorImage, widget: hidden, default: "uploads/jarrett-flierl-profile-picture.jpg"}
       - {label: "Header Image", name: image, widget: image, required: false}
       - {label: Commenting, name: comments, widget: boolean, default: true}
       - {label: Sharing, name: share, widget: boolean, default: true}
@@ -35,8 +35,8 @@ collections:
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Categories", name: "categories", widget: "string", required: true}
       - {label: "Tags", name: "tags", widget: "list", required: false}
-      - {label: Author, name: author, widget: hidden, default: Chris Stayte}
-      - {label: Author Image, name: authorImage, widget: hidden, default: "uploads/chrisstayte_profilepic.jpg"}
+      - {label: Author, name: author, widget: hidden, default: Jarrett Flierl}
+      - {label: Author Image, name: authorImage, widget: hidden, default: "uploads/jarrett-flierl-profile-picture.jpg"}
       - {label: "Header Image", name: image, widget: image, required: false}
       - {label: Commenting, name: comments, widget: boolean, default: true}
       - {label: Sharing, name: share, widget: boolean, default: true}
@@ -53,8 +53,8 @@ collections:
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Categories", name: "categories", widget: "string", required: true}
       - {label: "Tags", name: "tags", widget: "list", required: false}
-      - {label: Author, name: author, widget: hidden, default: Chris Stayte}
-      - {label: Author Image, name: authorImage, widget: hidden, default: "uploads/chrisstayte_profilepic.jpg"}
+      - {label: Author, name: author, widget: hidden, default: Jarrett Flierl}
+      - {label: Author Image, name: authorImage, widget: hidden, default: "uploads/jarrett-flierl-profile-picture.jpg"}
       - {label: "Header Image", name: image, widget: image, required: false}
       - {label: Commenting, name: comments, widget: boolean, default: true}
       - {label: Sharing, name: share, widget: boolean, default: true}
@@ -71,8 +71,8 @@ collections:
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Categories", name: "categories", widget: "string", required: true}
       - {label: "Tags", name: "tags", widget: "list", required: false}
-      - {label: Author, name: author, widget: hidden, default: Chris Stayte}
-      - {label: Author Image, name: authorImage, widget: hidden, default: "uploads/chrisstayte_profilepic.jpg"}
+      - {label: Author, name: author, widget: hidden, default: Jarrett Flierl}
+      - {label: Author Image, name: authorImage, widget: hidden, default: "uploads/jarrett-flierl-profile-picture.jpg"}
       - {label: "Header Image", name: image, widget: image, required: false}
       - {label: Commenting, name: comments, widget: boolean, default: true}
       - {label: Sharing, name: share, widget: boolean, default: true}
@@ -89,8 +89,8 @@ collections:
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Categories", name: "categories", widget: hidden, default: coding}
       - {label: "Tags", name: "tags", widget: "list", required: false}
-      - {label: Author, name: author, widget: hidden, default: Chris Stayte}
-      - {label: Author Image, name: authorImage, widget: hidden, default: "uploads/chrisstayte_profilepic.jpg"}
+      - {label: Author, name: author, widget: hidden, default: Jarrett Flierl}
+      - {label: Author Image, name: authorImage, widget: hidden, default: "uploads/jarrett-flierl-profile-picture.jpg"}
       - {label: "Header Image", name: image, widget: image, required: false}
       - {label: Commenting, name: comments, widget: boolean, default: true}
       - {label: Sharing, name: share, widget: boolean, default: true}
@@ -107,8 +107,8 @@ collections:
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Categories", name: "categories", widget: "string", required: true}
       - {label: "Tags", name: "tags", widget: "list", required: false}
-      - {label: Author, name: author, widget: hidden, default: Chris Stayte}
-      - {label: Author Image, name: authorImage, widget: hidden, default: "uploads/chrisstayte_profilepic.jpg"}
+      - {label: Author, name: author, widget: hidden, default: Jarrett Flierl}
+      - {label: Author Image, name: authorImage, widget: hidden, default: "uploads/jarrett-flierl-profile-picture.jpg"}
       - {label: "Header Image", name: image, widget: image, required: false}
       - {label: Commenting, name: comments, widget: boolean, default: true}
       - {label: Sharing, name: share, widget: boolean, default: true}
@@ -125,8 +125,8 @@ collections:
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Categories", name: "categories", widget: "string", required: true}
       - {label: "Tags", name: "tags", widget: "list", required: false}
-      - {label: Author, name: author, widget: hidden, default: Chris Stayte}
-      - {label: Author Image, name: authorImage, widget: hidden, default: "uploads/chrisstayte_profilepic.jpg"}
+      - {label: Author, name: author, widget: hidden, default: Jarrett Flierl}
+      - {label: Author Image, name: authorImage, widget: hidden, default: "uploads/jarrett-flierl-profile-picture.jpg"}
       - {label: "Header Image", name: image, widget: image, required: false}
       - {label: Commenting, name: comments, widget: boolean, default: true}
       - {label: Sharing, name: share, widget: boolean, default: true}
