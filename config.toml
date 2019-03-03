@@ -23,7 +23,7 @@ paginate        = 6
   logo = ""
   orgName = "bigFLEXmedia"
   orgWebsite = "https://www.bigflexmedia.com"
-  orgDescription = "Here is a description placeholder for your org"
+  orgDescription = "bigflexmedia"
 
   author = "Jarrett Flierl"
   authorAvatar = "uploads/jarrett-flierl-profile-picture.jpg"
