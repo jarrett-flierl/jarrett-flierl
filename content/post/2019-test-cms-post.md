@@ -5,7 +5,7 @@ draft: false
 categories: Podcast
 tags:
   - project
-author: Chris Stayte
+author: Jarrett Flierl
 authorImage: uploads/chrisstayte_profilepic.jpg
 image: /uploads/jarrett-flierl-netlify-cms-test-photo.jpg
 comments: true
