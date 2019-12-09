@@ -1,4 +1,4 @@
-baseurl         = "jarrettflierl.com"
+baseurl         = "https://adoring-joliot-f91436.netlify.com/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
