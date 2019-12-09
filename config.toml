@@ -12,7 +12,7 @@ paginate        = 6
   cover       = "uploads/jarrett-flierl-header.jpg"
   description = "Jarett Flierl's Tester Teaser"
   metaDescription = ""
-  googleAnalytics = ""
+  googleAnalytics = "UA-154365682-1"
   customCSS = []
   RSSLink = ""
 
