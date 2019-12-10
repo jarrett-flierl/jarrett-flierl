@@ -3,7 +3,7 @@ theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
-#SectionPagesMenu = "main"
+SectionPagesMenu = "main"
 
 [params]
   title       = "Jarrett Flierl"
