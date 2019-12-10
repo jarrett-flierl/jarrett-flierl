@@ -10,7 +10,7 @@ paginate        = 6
   subtitle    = "creator"
 
   cover       = "uploads/jarrett-flierl-header.jpg"
-  description = "Jarett Flierl's Tester Teaser"
+  description = "Jarett Flierl is Jarrett Flierl in Jarrett Flierl's Rumble in LA"
   metaDescription = ""
   googleAnalytics = "UA-154365682-1"
   customCSS = []
@@ -28,7 +28,7 @@ paginate        = 6
   author = "Jarrett Flierl"
   authorAvatar = "uploads/jarrett-flierl-profile-picture.jpg"
   authorLocation = "Santa Monica, CA"
-  authorWebsite = "https://test.jarrettflierl.com"
+  authorWebsite = "https://jarrettflierl.com"
   authorDescription = "Creator, Big Flex'r"
 
   pageNotFoundTitle = "404 - Page not found"
@@ -37,11 +37,11 @@ paginate        = 6
   singleViewStyle = "casper"
 
 [permalinks]
-  post = "/post/:slug/"
+  post = "/:slug/"
 
 [[menu.main]]
-  name = "Main"
-  url = "/post/"
+  name = "Home"
+  url = "/"
   weight = 200
 
 [[menu.main]]
